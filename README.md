@@ -7,3 +7,5 @@ See git status: `git status`
 Commit changes locally: `git commit -a`
 
 Push to https://evashapiro.github.io: `git push`
+
+Pull from github: `git pull`
