@@ -2,6 +2,8 @@ Edit the page at `~/evashapiro.github.io/index.html`
 
 Preview changes: `python -m SimpleHTTPServer`
 
+Open url: [http://localhost:8000/](http://localhost:8000/)
+
 See git status: `git status`
 
 Commit changes locally: `git commit -a`
