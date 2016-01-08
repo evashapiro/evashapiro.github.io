@@ -6,7 +6,7 @@ Open url: [http://localhost:8000/](http://localhost:8000/)
 
 See git status: `git status`
 
-Commit changes locally: `git commit -a`
+Commit changes locally: `git commit -a -m "<commit msg>"`
 
 Push to https://evashapiro.github.io: `git push`
 
